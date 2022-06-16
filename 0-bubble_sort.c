@@ -2,9 +2,6 @@
 
 /**
  * bubble_sort - function that sorts an array
- * of integers in ascending order using the
- * Bubble sort algorithm
- *
  * @array: input arrray
  * @size: size of the array
  * Return: no return

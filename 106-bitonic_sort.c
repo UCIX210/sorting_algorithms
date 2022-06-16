@@ -1,8 +1,7 @@
 #include "sort.h"
 #include <stdio.h>
 /**
- * print_bitonic - prints the array modified by
- * bitonic algorithm
+ * print_bitonic - bitonic algorithm
  *
  * @arr: input array
  * @i: first index

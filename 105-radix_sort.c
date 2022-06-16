@@ -1,7 +1,6 @@
 #include "sort.h"
 /**
  * radix_sort - sorts an array of integers in ascending
- * order using the Radix sort algorithm
  *
  * @array: input array
  * @size: size of the array
